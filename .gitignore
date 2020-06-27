@@ -1,0 +1,28 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# Garbage
+.DS_Store
+
+# Idea
+*.ipr
+*.iml
+*.iws
+
+# BBEdit
+*.bbproject
+
+# VSCode
+*.code-workspace
+.vscode
+
+# Eclipse
+.classpath
+.project
+.settings
+
+# Logs
+*.log
